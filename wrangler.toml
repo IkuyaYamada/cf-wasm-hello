@@ -4,3 +4,8 @@ compatibility_date = "2026-02-07"
 
 [build]
 command = "cargo install -q worker-build@^0.7 && worker-build --release"
+
+[[d1_databases]]
+binding = "cafe01"
+database_name = "cafe01"
+database_id = "15959649-9c37-4fbc-a31c-d50d92e43ba4"
